@@ -1,0 +1,5 @@
+. A rule consists of three parts: the target,its prerequisites, and the command(s) to perform:
+
+target: prereq1 prereq2
+	commands
+
