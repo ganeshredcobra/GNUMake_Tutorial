@@ -1,0 +1,12 @@
+The if-condition can be one of:
+
+ifdef variable-name
+ifndef variable-name
+ifeq test
+ifneq test
+
+The basic syntax of the conditional directive is:
+
+if-condition
+	text if the condition is true
+endif
