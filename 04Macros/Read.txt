@@ -1,0 +1,3 @@
+$@ The filename representing the target.
+$< The filename of the first prerequisite.
+
