@@ -1,0 +1,5 @@
+The simplestones have the syntax:
+
+$(variable-name)
+
+This indicates that we want to expand the variable whose name is variable-name.In general, a variable name must be surrounded by $( ) or ${ }.
