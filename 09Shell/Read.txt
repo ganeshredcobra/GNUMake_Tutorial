@@ -1,0 +1,1 @@
+The $(shell) function is the second way to invoke the shell from Make. It’s intended purpose is to capture the output of a command into a Make variable.
