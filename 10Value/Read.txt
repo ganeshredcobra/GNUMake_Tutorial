@@ -1,0 +1,4 @@
+The value function provides a way for you to use the value of a variable without having it expanded.
+
+The syntax of the value function is:
+	$(value variable)
